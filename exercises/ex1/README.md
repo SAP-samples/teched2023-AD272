@@ -6,9 +6,9 @@
 
  
 ## Prerequisites
-- You have created and deployed a CAP service, as described in [Create a CAP Service with BAS Productivity Tools](build-apps-cap-service).
-- You have created a destination to your CAP service, as described in [Expose a CAP Service to SAP Build](build-apps-cap-expose).
-- You have installed SAP Build Apps on the same tenant to which you deployed your CAP service.
+- A CAP service was created and deployed, if you want to try out afterwards you can find a guide here [Create a CAP Service with BAS Productivity Tools](build-apps-cap-service).
+- A destination to your CAP service was created, as described in [Expose a CAP Service to SAP Build](build-apps-cap-expose).
+- SAP Build Apps on the same tenant to which you deployed your CAP service.
 
 
 
