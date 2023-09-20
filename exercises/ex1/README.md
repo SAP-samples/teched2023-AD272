@@ -39,10 +39,6 @@ The app you will help build has 3 pages:
 
 - **Manage (Add/Update) Risks:** This page lets you add a new risk or update an existing risk (if a risk ID is passed). If you navigate from an existing risk, all the field values for that risk are loaded, and you will be updating that risk.
 
->**IMPORTANT:** Both the CAP service and the SAP HANA instance on a trial account may stop automatically each day, or more frequently. If you do not get returned data, check that they are running and restart them if necessary. 
-
->![Restart services](restartservices.jpg)
-
 
 
 
