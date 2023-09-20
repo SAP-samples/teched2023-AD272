@@ -43,9 +43,7 @@ The app you will help build has 3 pages:
 
 
 ### Open SAP Build Apps
-Open SAP Build Apps, by going to the SAP BTP cockpit, and under **Instances and Subscriptions**, click **SAP Build Apps**.
-
-![Open SAP Build Apps](1-open-lobby.png)
+Open SAP Build Apps with this link: "missing link to lobby"
 
 The SAP Build lobby should open.
 
