@@ -55,25 +55,9 @@ The SAP Build lobby should open.
 
 ### Import project
 
-First, download the skeleton project from [RiskManagement.mtar](RiskManagement.mtar).
+>Download the file [RiskManagement.zip.gpg](RiskManagement.zip.gpg).
 
-Second, go to the SAP Build lobby and click on the **Import** button.
-
-![Import button](2-import-button.jpg)
-
-In the dialog, select the downloaded project file, and click **Import**.
-
-![Select MTAR](2-import-button2.jpg)
-
-The project should be added to the lobby. 
-
-![Project added](2-project-added.jpg)
-
-Click the project to open it.
-
->If the project cannot load because it conflicts with an existing project or you already imported it, there is a second way to import projects (from within an existing project), and we have provided a second version of the project for this purpose.
-
->Download the file [RiskManagement.zip.gpg](https://github.com/sap-tutorials/sap-build-apps/raw/main/tutorials/build-apps-cap-app/RiskManagement.zip.gpg).
+> Create a new SAP Build Apps project from the lobby. Name it Riskmanagement *Your AD272 user id* like "Risk Management AD272-123"
 
 >From within an open SAP Build Apps project, make sure the project is saved. Then go to the upper-right corner, select the 3 dots and then **Replace** -- this import replaces and deletes the current content of the project.
 
