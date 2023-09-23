@@ -93,7 +93,7 @@ The first thing you need to do is connect the project to your CAP service via ou
 
     >You can ignore these error messages. As soon as you create the data resources, they will go away.
 
-5. Click **BTP Destinations**, and then select the the destination.
+5. Click **BTP Destinations**, and then select the destination called **RiskManagement**.
 
     ![Select destination](3-data-dest.jpg)
 
