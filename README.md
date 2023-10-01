@@ -43,7 +43,7 @@ There are no dedicated requirement for this exercise. But in case you want to ga
     - [Exercise 2.3 - Add SAPUI5 Form in Process](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.4 - Add Action to Update Risk](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.5 - Send Email Notification](exercises/ex2#exercise-22-sub-exercise-2-description)
-- [Exercise 3 - Run Process](exercises/ex3/)
+- [Exercise 3 - Open Risk Management Application and Start Process](exercises/ex3/)
     - [Exercise 3.1 - Create and Modify Risks](exercises/ex3#exercise-31-sub-exercise-1-description)
     - [Exercise 3.2 - Monitor Process](exercises/ex3#exercise-32-sub-exercise-2-description)
     - [Exercise 3.3 - Approve Risks Mitigation from Inbox](exercises/ex3#exercise-33-sub-exercise-3-description)
