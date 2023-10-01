@@ -4,37 +4,51 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called AD272 - Best of both sides: SAP Cloud Programming Model meets SAP Build.  
+This repository contains the material for the SAP TechEd 2022 session called **AD272 - Best of both sides: SAP Cloud Programming Model meets SAP Build**. 
+
+Risk Management is a process allows to identify enterprise risks and align them with business processes, accessing and tracking risk to organisational earnings and operations. Customizing risk management enables you to carry out the necessary configuration activities. 
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees how to use CAP services in SAP Build. Leveraging SAP Build Apps, Process Automation and SAP Work Zone, standard edition services of SAP Build portfolio to enhance the experience of managing and mitigating risks.
+
+<img width="1690" alt="image" src="https://github.com/SAP-samples/teched2023-AD272/assets/34297037/236409b5-5b19-4864-be86-94eff978f951">
+
+In this scenario: <br>
+- Create applications to create and mitigate risk using SAP Build Apps
+- Add logic to update risks and change mitigation using Cloud Application Model service
+- Add logic to trigger approval process in SAP Build Process Automation
+- Build and deploy risk management application
+- Process is triggered to approve the changes in SAP Build Process Automation
+- Cloud Application Model service is used to update risk details in the SAP HANA data source
+- SAP Work Zone workspace is used to provide centralized access to SAP Build applications, and workflow inbox applications
+- Finally, risk manager is informed once the risks are updated
+- In addition, whole process can be managed and monitored using out-of-the-box visibility.
+
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+There are no dedicated requirement for this exercise. But in case you want to gain some further knowledge around SAP Build, please feel free to attend these SAP TechEd workshops:
+- Learn how to build and extend standard business process in SAP S/4HANA [AD163 - Extend Your Sales Order Process in SAP S/4HANA with SAP Build](https://github.com/SAP-samples/teched2023-AD163)
+- Learn how to build a process and integrate with SAP and non-SAP systems [IN264 - Combine SAP Integration Suite and SAP Build Process Automation in HR](https://github.com/SAP-samples/teched2023-IN264)
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
 - [Exercise 1 - SAP Build Apps](exercises/ex1/)
     - [Exercise 1.1 - SAP Build Apps consuming SAP CAP](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - SAP Build Apps - Trigger Process](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 2 - SAP Build Process Automation](exercises/ex2/)
+    - [Exercise 2.1 - Create business project and process](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Exercise 2.2 - Import SAPUI5](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.3 - Add SAPUI5 Form in Process](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.4 - Add Action to Update Risk](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.5 - Send Email Notification](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 3 - Run Process](exercises/ex3/)
+    - [Exercise 3.1 - Create and Modify Risks](exercises/ex3#exercise-31-sub-exercise-1-description)
+    - [Exercise 3.2 - Monitor Process](exercises/ex3#exercise-32-sub-exercise-2-description)
+    - [Exercise 3.3 - Approve Risks Mitigation from Inbox](exercises/ex3#exercise-33-sub-exercise-3-description)
 
   
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
 
