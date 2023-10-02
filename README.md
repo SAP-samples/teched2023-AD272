@@ -4,13 +4,13 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called **AD272 - Best of both sides: SAP Cloud Programming Model meets SAP Build**. 
+This repository contains the material for the SAP TechEd 2023 session called **AD272 - Best of both sides: SAP Cloud Programming Model meets SAP Build**. 
 
 Risk Management is a process allows to identify enterprise risks and align them with business processes, accessing and tracking risk to organisational earnings and operations. Customizing risk management enables you to carry out the necessary configuration activities. 
 
 ## Overview
 
-This session introduces attendees how to use CAP services in SAP Build. Leveraging SAP Build Apps, Process Automation and SAP Work Zone, standard edition services of SAP Build portfolio to enhance the experience of managing and mitigating risks.
+This session introduces attendees how to use CAP services in SAP Build. Leveraging SAP Build Apps, SAP Build Process Automation and SAP Build Work Zone, standard edition services of SAP Build portfolio to enhance the experience of managing and mitigating risks.
 
 <img width="1690" alt="image" src="https://github.com/SAP-samples/teched2023-AD272/assets/34297037/236409b5-5b19-4864-be86-94eff978f951">
 
@@ -21,9 +21,11 @@ In this scenario: <br>
 - Build and deploy risk management application
 - Process is triggered to approve the changes in SAP Build Process Automation
 - Cloud Application Model service is used to update risk details in the SAP HANA data source
-- SAP Work Zone workspace is used to provide centralized access to SAP Build applications, and workflow inbox applications
+- Create an SAP Build Work Zone site
+- Design your site by addping custom Spaces and Pages and integrating your app and UI integration cards
+- Use This site to provide central access to business users to add and view risks
 - Finally, risk manager is informed once the risks are updated
-- In addition, whole process can be managed and monitored using out-of-the-box visibility.
+- In addition, whole process can be managed and monitored using out-of-the-box visibility
 
 
 ## Requirements
@@ -47,6 +49,9 @@ There are no dedicated requirement for this exercise. But in case you want to ga
     - [Exercise 3.1 - Create and Modify Risks](exercises/ex3#exercise-31-sub-exercise-1-description)
     - [Exercise 3.2 - Monitor Process](exercises/ex3#exercise-32-sub-exercise-2-description)
     - [Exercise 3.3 - Approve Risks Mitigation from Inbox](exercises/ex3#exercise-33-sub-exercise-3-description)
+- [Exercise 4 - SAP Build Work Zone](exercises/ex4/)
+    - [Exercise 4.1 - Create and design a Site Using SAP Build Work Zone, standard edition](exercises/ex4#exercise-41-sub-exercise-1-description)
+    - [Exercise 4.4 - Experience end to end](exercises/ex4#exercise-42-sub-exercise-2-description)
 
   
 ## Contributing
