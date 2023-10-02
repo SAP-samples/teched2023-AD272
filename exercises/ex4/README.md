@@ -1,20 +1,22 @@
 
-# Consume a CAP Service in SAP Build Apps
-<!-- description --> Using SAP Build Apps, create an app that calls a CAP service via a destination, updates data, and manages permissions based on SAP BTP role collections.
+# Create a Site Using SAP Build Work Zone, standard edition
+<!-- description --> Using SAP Build Work Zone, create a business site to create, view and handle risks. 
 
  
 ## Prerequisites
 - A CAP service was created and deployed, if you want to try out afterwards you can find a guide here [Create a CAP Service with BAS Productivity Tools](build-apps-cap-service).
 - A destination to your CAP service was created, as described in [Expose a CAP Service to SAP Build](build-apps-cap-expose).
-- SAP Build Apps on the same tenant to which you deployed your CAP service.
+- You created an app using SAP Build Apps on the same tenant to which you deployed your CAP service.
+- You integrated your process to your App.
+- You have subscribed to SAP Build Work Zone, standard edition and assigned yourself to the Launchpad_Admin role
 
 
 
 ## You will learn
-- How to import projects
-- How to create a data resource from a destination
-- How to check BTP permissions to a CAP service
-- How to do CRUD operations in SAP Build Apps for a CAP service  
+- How to create a site using SAP Build Work Zone, standard edition
+- How to design a site with the new experience and create a custom Space and Page
+- How to integrate your app to your site
+- How to integrate pre-deployed UI integration cards to your site 
 
 
 
