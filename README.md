@@ -51,7 +51,7 @@ There are no dedicated requirement for this exercise. But in case you want to ga
     - [Exercise 3.3 - Approve Risks Mitigation from Inbox](exercises/ex3#exercise-33-sub-exercise-3-description)
 - [Exercise 4 - SAP Build Work Zone](exercises/ex4/)
     - [Exercise 4.1 - Create and design a Site Using SAP Build Work Zone, standard edition](exercises/ex4#exercise-41-sub-exercise-1-description)
-    - [Exercise 4.4 - Experience end to end](exercises/ex4#exercise-42-sub-exercise-2-description)
+    - [Exercise 4.2 - Experience end to end](exercises/ex4#exercise-42-sub-exercise-2-description)
 
   
 ## Contributing
