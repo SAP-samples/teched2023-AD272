@@ -35,17 +35,39 @@ SAP Build Work Zone should open.
 ![Work Zone](0_std_open.jpg)
 
 
+## Create a site
+When you access the SAP Build Work Zone, standard edition, the Site Directory is in focus. From here you’ll create your new site.
+
+In the side panel, you’ll see four tools. The Site Directory where you’re going to create a new site. All sites that you create will be displayed here. The Content Manager where you’ll manage cross-site content such as business apps. The Channel Manager where you manage different channels that expose business content that you can integrate into your sites. The fourth icon opens Settings where you can configure various settings related to your subaccount.
+
+1. Click **Create Site**.
+
+![Work Zone](1_create_new_site.png)
+
+2. Enter JobCore<id> as the site name and click Create. <id> is a unique id you should use to identify your site.
+
+![Work Zone](2_name_site.png)
+  
+You’ve just created a site called JobCore.
+
+## Select the Spaces and Pages - New Experience view mode
+
+When you create a site, you are directed to the Site Settings screen where you can edit the site settings. In this screen, you’ll select the new experience view mode. This is also where you  will assign roles to your site.
+
+By enabling Spaces and Pages – New Experience view mode, you’ll be able to create spaces and pages locally in dedicated editors. You will be able to design your pages by adding sections with UI integration cards and app tiles. If you integrate spaces and pages from remote content providers, they will be displayed side by side with spaces you create.
+
+1. Click Edit in the top right corner of the screen.
+![Work Zone](4_edit_site_settings.png)
+   
+2. Under **Display**, select **Spaces and Pages - New Experience**.
+![Work Zone](5_select_new_experience.png).
+
+3. Click **Save**
+
+## Navigate back to the Site Directory to view the site tile.
+![Work Zone](6-to-site-directory.png).
+Your site is empty for now. In the next tutorials, you’re going to add business apps to your site.
 
 
 
-- **Risks:** This page lists all the existing risks (with description and criticality displayed), and includes a button so you can add a new risk.
 
-    Next to each risk is a delete button, which lets you delete a risk from the CAP service.
-
-- **Risk Details:** This page shows all fields for a specific risk, plus the corresponding mitigation selected for the risk (if one exists). The page has 2 actions you can do:
-
-    - There is an **Edit** button to edit the fields. The button takes you to the **Manage Risks** page, which is used for both adding and editing risks.
-
-    - All the existing mitigations are displayed, and you can select one to assign it to the current risk, instead of the currently assigned mitigation.
-
-- **Manage (Add/Update) Risks:** This page lets you add a new risk or update an existing risk (if a risk ID is passed). If you navigate from an existing risk, all the field values for that risk are loaded, and you will be updating that risk.
