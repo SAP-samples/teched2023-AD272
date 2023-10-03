@@ -14,17 +14,15 @@ This session introduces attendees how to use CAP services in SAP Build and lever
 
 <img width="1690" alt="image" src="https://github.com/SAP-samples/teched2023-AD272/assets/34297037/236409b5-5b19-4864-be86-94eff978f951">
 
-In this scenario, you will: <br>
-- Create applications to create and mitigate risk using SAP Build Apps
-- Add logic to update risks and change mitigation using Cloud Application Model service
-- Add logic to trigger approval process in SAP Build Process Automation
-- Build and deploy risk management application
-- Process is triggered to approve the changes in SAP Build Process Automation
+In this scenario: <br>
+- Applications are developed to create and mitigate risk using SAP Build Apps.
+- Logic is added to :
+  - update risks and change mitigation 
+  - trigger approval process 
+- Process is triggered to review and approve the changes in SAP Build Process Automation
 - Cloud Application Model service is used to update risk details in the SAP HANA data source
-- Create an SAP Build Work Zone site
-- Design your site by addping custom Spaces and Pages and integrating your app and UI integration cards
-- Use This site to provide central access to business users to add and view risks
-- Finally, risk manager is informed once the risks are updated
+- SAP Build Work Zone site is designed by adapting custom pages and integrating the application with UI integration cards
+- Risk Manager access the business site to add and view risks, approve mitigations and track all the risks. 
 - In addition, whole process can be managed and monitored using out-of-the-box visibility
 
 
