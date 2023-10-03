@@ -66,7 +66,8 @@ By enabling Spaces and Pages – New Experience view mode, you’ll be able to c
 
 ### Navigate back to the Site Directory to view the site tile.
 ![Work Zone](6-to-site-directory.png).
-Your site is empty for now. In the next tutorials, you’re going to add business apps to your site.
+
+Your site is empty for now. In the next tutorials, you’re going to add your app and cards to your site.
 
 ## Integrate your app to SAP Build Work Zone
 
@@ -115,30 +116,38 @@ Note that your app is in the list of content items.
 ## Design your site
 
 ### Create a page.
+
 1. Open the Content Manager.
+![Work Zone](31-open-content-manager.png)
    
 2. Click **Create** and from the dropdown list, select **Page**.
+![Work Zone](32-create-page_replace.png)
  
 3. Enter a title for the page: **Overview**.
+![Work Zone](33-enter-title.png)
    
 ### Add cards and your apps to the page
 1. In the **Design** tab, click **Edit**.
+   
+![Work Zone](34-click-edit.png)
 
 2. Click **Add Section**.
+![Work Zone](35-add-section.png)
 
 3. Give the section a title **Header** and click Add Widget.
+![Work Zone](36-section-title.png) 
    
-4. In the Add Widgets screen, click **Cards**.
+5. In the Add Widgets screen, click **Cards**.
 
-5. Select the Title card and click **Add**.
+6. Select the Title card and click **Add**.
 
-6. Click **Add Section**.
+7. Click **Add Section**.
 
-7. Give the section a title **Risks** and click **Add Widget**.
+8. Give the section a title **Risks** and click **Add Widget**.
 
-8. In the Add Widgets screen, click **Tiles**.
+9. In the Add Widgets screen, click **Tiles**.
 
-9. Select your app tile and click **Add**.
+10. Select your app tile and click **Add**.
     
 11. Click **Add Widget**. In the Add Widgets screen, click **Cards**.
 
