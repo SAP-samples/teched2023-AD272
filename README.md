@@ -6,7 +6,7 @@
 
 This repository contains the material for the SAP TechEd 2023 session called **AD272 - Best of both sides: SAP Cloud Programming Model meets SAP Build**. 
 
-Risk Management is a process allows to identify enterprise risks and align them with business processes, accessing and tracking risk to organisational earnings and operations. Customizing risk management enables you to carry out the necessary configuration activities. 
+Risk Management process allows to identify enterprise risks and align them with business processes, accessing and tracking risk to organisational earnings and operations. Customizing risk management enables you to carry out the necessary configuration activities. 
 
 ## Overview
 
