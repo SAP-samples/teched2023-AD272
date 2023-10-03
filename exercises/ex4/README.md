@@ -74,22 +74,41 @@ Your site is empty for now. In the next tutorials, you’re going to add busines
 
 1. Click the Channel Manager icon to view any available content providers.
 
-2. Click refresh on the HTML5 repository 
+![Work Zone](21-open-provider-manager.png)
+
+2. Select the HTML5 Apps content provider.
+
+![Work Zone](22-HTML5-provider.png)
+   
+3. Click refresh on the HTML5 repository 
+
+![Work Zone](23-fetch-updated-content.png)
 
 The HTML5 Apps content provider should now expose any newly deployed app for integration.
 
 ### Add your deployed app to your content
 1. Click the icon in the side panel to open the Content Manager.
-
+   
+![Work Zone](24-open-content-editor.png)
+   
 The Content Manager has two tabs: My Content where you can manually configure content items and view any other available content items, and the Content Explorer where you can explore exposed content from available content providers, select the content, and add it to your own content.
 
 2.  Click the Content Explorer tab to explore content from the available content providers.
 
+![Work Zone](25-content-explorer_replace.png)
+
 3.  Select the HTML5 Apps provider.
+
+![Work Zone](26-select-HTML5-tile.png)
 
 4.  You’ll see that your app that you’ve just deployed in SAP Build Apps, already exists in this provider. Select it and click + Add to My Content.
 
+![Work Zone](27-add-app-my-content_replace.png)
+
 5.  Click the My Content tab.
+
+![Work Zone](28-click-my-content_replace.png)
+
 
 Note that your app is in the list of content items.
 
