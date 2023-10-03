@@ -30,7 +30,7 @@ The site you will design will have a Space and a page:
 
 
 ### Open SAP Build Work Zone, standard edition
-Open SAP Build Work Zone, standard edition,  with this link:  [SAP Build Work Zone, standard edition]([build-apps-cap-expose](https://ad272-rt8pv9xc.dt.launchpad.cfapps.eu10.hana.ondemand.com/sites#Site-Directory).
+Open SAP Build Work Zone, standard edition,  with this link:  [SAP Build Work Zone, standard edition](https://ad272-rt8pv9xc.dt.launchpad.cfapps.eu10.hana.ondemand.com/sites#Site-Directory).
 
 The SAP Build lobby should open.
 
