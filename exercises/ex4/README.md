@@ -1,5 +1,5 @@
 
-# Create a Site Using SAP Build Work Zone, standard edition
+# Create and design a Site Using SAP Build Work Zone, standard edition
 <!-- description --> Using SAP Build Work Zone, create a business site to create, view and handle risks. 
 
  
@@ -21,7 +21,7 @@
 
 
 ## Intro
-Instead of building the entire project from scratch, you will import a project with all the pages created, all the UI components added to the pages, and all the components stylized. Most bindings will also be set.
+In this tutorial you will create and design your own business site using SAP Build Work Zone, standard edition. You will integrate to your site the app you developed using SAP Build Apps, and UI integration cards that are already deployed to the subaccout.
 
 The app you will help build has 3 pages:
 
