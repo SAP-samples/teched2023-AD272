@@ -64,9 +64,114 @@ By enabling Spaces and Pages – New Experience view mode, you’ll be able to c
 
 3. Click **Save**
 
-## Navigate back to the Site Directory to view the site tile.
+### Navigate back to the Site Directory to view the site tile.
 ![Work Zone](6-to-site-directory.png).
 Your site is empty for now. In the next tutorials, you’re going to add business apps to your site.
+
+## Integrate your app to SAP Build Work Zone
+
+### Fetch updated content using the Channel Manager
+
+1. Click the Channel Manager icon to view any available content providers.
+
+2. Click refresh on the HTML5 repository 
+
+The HTML5 Apps content provider should now expose any newly deployed app for integration.
+
+### Add your deployed app to your content
+1. Click the icon in the side panel to open the Content Manager.
+
+The Content Manager has two tabs: My Content where you can manually configure content items and view any other available content items, and the Content Explorer where you can explore exposed content from available content providers, select the content, and add it to your own content.
+
+2.  Click the Content Explorer tab to explore content from the available content providers.
+
+3.  Select the HTML5 Apps provider.
+
+4.  You’ll see that your app that you’ve just deployed in SAP Build Apps, already exists in this provider. Select it and click + Add to My Content.
+
+5.  Click the My Content tab.
+
+Note that your app is in the list of content items.
+
+## Design your site
+
+### Create a page.
+1. Open the Content Manager.
+   
+2. Click **Create** and from the dropdown list, select **Page**.
+ 
+3. Enter a title for the page: **Overview**.
+   
+### Add cards and your apps to the page
+1. In the **Design** tab, click **Edit**.
+
+2. Click **Add Section**.
+
+3. Give the section a title **Header** and click Add Widget.
+   
+4. In the Add Widgets screen, click **Cards**.
+
+5. Select the Title card and click **Add**.
+
+6. Click **Add Section**.
+
+7. Give the section a title **Risks** and click **Add Widget**.
+
+8. In the Add Widgets screen, click **Tiles**.
+
+9. Select your app tile and click **Add**.
+    
+11. Click **Add Widget**. In the Add Widgets screen, click **Cards**.
+
+12. Select risks card and click **Add**.
+
+
+### Create a space.
+1. In the **Content Manager** click Create and then select **Space**.
+
+2. Enter a title for the space: **Home**.
+
+3. In the Pages tab, you’ll see a list of pages and from here you can assign as many pages as you want to the space. We only have 1 page - the Overview page. From the Assignment Status column, click the toggle to assign the **Overview** page to the **Home** space.
+
+4. Click Save.
+
+5. Go back to the Content Manager using the breadcrumbs at the top. You’ll see that the space you created is added to the list of content items.
+
+### Assign your app and space to a role
+In this step, you’ll assign the space to a preconfigured role.
+
+Spaces are assigned to a role and users assigned to a specific role are able to access the space and see the relevant pages assigned to it.Content assigned to the Everyone role is visible to all users.
+
+1. From the Content Manager, click the XXX role.
+
+2. Click **Edit**.
+
+3. Under the Spaces tab, you’ll see the **Home** space you just created. Click the toggle to assign the **Home** space to the XXX role. Then click Save.
+   
+4. Under the Apps tab, you’ll see the **XXX** app you deployed. Click the toggle to assign the this app to the XXX role. Then click Save.
+
+
+## Assign the roles to your site
+1. Navigate to the Channel Manager
+
+2. Click the report to view how many cards and roles were added with this Content Package.
+
+3. Select the Site Editor.
+
+4. Click Edit.
+
+5. Add the XXX and YYY roles to the site.
+
+
+
+You now completed designing your site. In the next tutorial you will experience the site as end users will experience it.
+
+
+
+
+
+
+
 
 
 
