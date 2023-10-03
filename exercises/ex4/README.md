@@ -23,9 +23,7 @@
 ## Intro
 In this tutorial you will create and design your own business site using SAP Build Work Zone, standard edition. You will integrate to your site the app you developed using SAP Build Apps, and UI integration cards that are already deployed to the subaccout.
 
-The site you will design will have a Space and a page:
-
-![App design](appDesign.jpg)
+The site you will design will have a space and a page.
 
 
 
@@ -34,7 +32,7 @@ Open SAP Build Work Zone, standard edition,  with this link:  [SAP Build Work Zo
 
 SAP Build Work Zone should open.
 
-![Lobby](1-lobby.png)
+![Work Zone](0_std_open.jpg)
 
 
 
