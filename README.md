@@ -14,7 +14,7 @@ This session introduces attendees how to use CAP services in SAP Build and lever
 
 <img width="1690" alt="image" src="https://github.com/SAP-samples/teched2023-AD272/assets/34297037/236409b5-5b19-4864-be86-94eff978f951">
 
-In this scenario: <br>
+In this scenario, you will: <br>
 - Create applications to create and mitigate risk using SAP Build Apps
 - Add logic to update risks and change mitigation using Cloud Application Model service
 - Add logic to trigger approval process in SAP Build Process Automation
