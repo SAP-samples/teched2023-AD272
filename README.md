@@ -35,7 +35,7 @@ There are no dedicated requirement for this exercise. But in case you want to ga
 ## Exercises
 
 - [Exercise 1 - SAP Build Apps](exercises/ex1/)
-    - [Exercise 1.1 - SAP Build Apps consuming SAP CAP](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 1.1 - SAP Build Apps consuming SAP CAP](exercises/ex1#exercise-11-consume-a-cap-service-in-sap-build-apps)
     - [Exercise 1.2 - SAP Build Apps - Trigger Process](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - SAP Build Process Automation](exercises/ex2/)
     - [Exercise 2.1 - Create business project and process](exercises/ex2#exercise-21-sub-exercise-1-description)
