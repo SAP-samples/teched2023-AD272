@@ -432,7 +432,7 @@ Add a new page called **Manage Mitigation**
 
 Change Headline to **Create new Mitigation**
 Afterwards delete the text field and add three input fields.
-![Input Fields](10b-mitigation.jpg)
+![Input Fields](10b-mitigation.png)
 
 Rename the labels to
 •	Owner
