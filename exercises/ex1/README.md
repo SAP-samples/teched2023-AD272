@@ -444,23 +444,23 @@ Afterwards add a button and rename it “Trigger Approval”
 Import Process Automation from marketplace
 
 Go to Variables -> Data Variables -> Add a new Data Variable: Approval Workflow Trigger and change the Data Variable type to New data record
-10d-data-variable
+![Data Variable](10d-data-variable.jpg)
 
 Go back to the UI canvas by clicking the **VIEW** toggle
 
 Map the value of the inputs fields to the approval workflow fields of the data variable **Approval Workflow Trigger1**
 
-10e-field-mapping
+![Field Mapping](10e-field-mapping.jpg)
 
 Select the button and open the logic canvas for the button.
 Add a **Create Record**, a **Toast** and an **Alert** and connect it like in the screenshot below:
-10f-logic-button
+![Logic Button](10f-logic-button.jpg)
 
 Create Record:
  - Recource Name: Approval Workflow Trigger
  - Record: definitionId=app variabe definitionId
    All other fields from the Data Variable **Approval Workflow Trigger1**
-10g-create-record
+   ![Create Record](10g-create-record.jpg)
 
 Toast: -> Toast Message: **Success**
 Alert: -> Dialog Title: **Error**
