@@ -1,9 +1,10 @@
 
  
 
-# Consume a CAP Service in SAP Build Apps
-<!-- description --> Using SAP Build Apps, create an app that calls a CAP service via a destination, updates data, and manages permissions based on SAP BTP role collections.
+# Risk Management App with SAP Build Apps
+<!-- description --> In this exercise we will create a SAP Build Apps application that calls a CAP Service and will trigger an approval process with SAP Build Process Automation. 
 
+## Exercise 1.1 Consume a CAP Service in SAP Build Apps 1 Using SAP Build Apps, create an app that calls a CAP service via a destination, updates data, and manages permissions based on SAP BTP role collections.
  
 ## Prerequisites
 - A CAP service was created and deployed, if you want to try out afterwards you can find a guide here [Create a CAP Service with BAS Productivity Tools](build-apps-cap-service).
@@ -421,3 +422,5 @@ The risk will not have any mitigation. Click one of the mitigations to select it
 ![Alt text](test-2b-change-mitigation.jpg)
 
 You can click **Edit** and change some of the fields. 
+
+## Exercise 1.2 Create a process trigger  1 Using SAP Build Apps, create an app that calls a CAP service via a destination, updates data, and manages permissions based on SAP BTP role collections.
