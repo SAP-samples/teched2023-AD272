@@ -426,3 +426,6 @@ You can click **Edit** and change some of the fields.
 
 ## Exercise 1.2 Create a process trigger  
 <!-- description --> In this part we will create a form with a submit button that will trigger a process which will be created in the SAP Process Automation part of this exercise.
+
+Add a new page called **Manage Mitigation**
+![Create new page](10a-new-page.jpg)
