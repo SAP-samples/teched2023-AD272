@@ -441,3 +441,31 @@ Rename the labels to
 Afterwards add a button and rename it “Trigger Approval”
 ![Input Fields](10c-approvalbutton.jpg)
 
+Import Process Automation from marketplace
+
+Go to Variables -> Data Variables -> Add a new Data Variable: Approval Workflow Trigger and change the Data Variable type to New data record
+10d-data-variable
+
+Go back to the UI canvas by clicking the **VIEW** toggle
+
+Map the value of the inputs fields to the approval workflow fields of the data variable **Approval Workflow Trigger1**
+
+10e-field-mapping
+
+Select the button and open the logic canvas for the button.
+Add a **Create Record**, a **Toast** and an **Alert** and connect it like in the screenshot below:
+10f-logic-button
+
+Create Record:
+ - Recource Name: Approval Workflow Trigger
+ - Record: definitionId=app variabe definitionId
+   All other fields from the Data Variable **Approval Workflow Trigger1**
+10g-create-record
+
+Toast: -> Toast Message: **Success**
+Alert: -> Dialog Title: **Error**
+
+Go to the **Risk Details** page
+Add a new button at the end called **Add new mitigation**
+
+Add a **open page** logic component and connect it to the "Component tap" event. Set the Page to **Manage Mitigation**.
