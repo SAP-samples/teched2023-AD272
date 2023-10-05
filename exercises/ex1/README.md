@@ -429,3 +429,15 @@ You can click **Edit** and change some of the fields.
 
 Add a new page called **Manage Mitigation**
 ![Create new page](10a-new-page.jpg)
+
+Change Headline to **Create new Mitigation**
+Afterwards delete the text field and add three input fields.
+![Input Fields](10b-mitigation.jpg)
+
+Rename the labels to
+•	Owner
+•	Timeline
+•	Description
+Afterwards add a button and rename it “Trigger Approval”
+![Input Fields](10c-approvalbutton.jpg)
+
