@@ -485,3 +485,6 @@ Go to the **Risk Details** page
 Add a new button at the end called **Add new mitigation**
 
 Add a **open page** logic component and connect it to the "Component tap" event. Set the Page to **Manage Mitigation**.
+
+That was it in the SAP Build Apps part. Now we move over to SAP Build Process Automation:
+[Exercise 2 - SAP Build Process Automation](exercises/ex2/)
