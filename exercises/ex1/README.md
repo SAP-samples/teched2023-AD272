@@ -446,7 +446,17 @@ Import Process Automation from marketplace
 Go to Variables -> Data Variables -> Add a new Data Variable: Approval Workflow Trigger and change the Data Variable type to New data record
 ![Data Variable](10d-data-variable.jpg)
 
-Go back to the UI canvas by clicking the **VIEW** toggle
+Open the logic canvas, select the **Set data variable** component and click on "custom object" in the Properties.
+Assign the fields:
+ - riskImpact: App Variable: selectedRisk.riskImpact
+ - riskCriticality: App Variable: selectedRisk.riskCriticality
+ - riskDescription: App Variable: selectedRisk.riskDescription
+ - riskResponsible: App Variable: selectedRisk.riskResponsible
+ - definitionId: App Variable: definitionId
+
+![Fields of Data variable](10i-data-variable.jpg)
+
+Save and go back to the UI canvas by clicking the **VIEW** toggle
 
 Map the value of the inputs fields to the approval workflow fields of the data variable **Approval Workflow Trigger1**
 
