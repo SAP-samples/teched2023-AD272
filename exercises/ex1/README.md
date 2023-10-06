@@ -427,6 +427,14 @@ You can click **Edit** and change some of the fields.
 ## Exercise 1.2 Create a process trigger  
 <!-- description --> In this part we will create a form with a submit button that will trigger a process which will be created in the SAP Process Automation part of this exercise.
 
+As a first step we will integrate a data entity from the marketplace, which will be the connection to our approval process.
+Select **MARKETPLACE** above the UI components on the left side
+![Marketplace](10j-marketplace.jpg)
+
+Search for the secret key: XXXXXX 
+Select the data entity **Approval WOrkflow Trigger** and press **Install** on the top right side.
+Press EXIT to close the marketplace.
+
 Add a new page called **Manage Mitigation**
 ![Create new page](10a-new-page.jpg)
 
@@ -462,18 +470,16 @@ Map the value of the inputs fields to the approval workflow fields of the data v
 
 ![Field Mapping](10e-field-mapping.jpg)
 
-Select the button and open the logic canvas for the button.
+Select the **Trigger Approval** button and open the logic canvas for the button.
 Add a **Create Record**, a **Toast** and an **Alert** and connect it like in the screenshot below:
 ![Logic Button](10f-logic-button.jpg)
 
-Create Record:
+Modify the Create Record as follow:
  - Recource Name: Approval Workflow Trigger
- - Record: definitionId=app variabe definitionId
-   All other fields from the Data Variable **Approval Workflow Trigger1**
-   ![Create Record](10g-create-record.jpg)
-
-Toast: -> Toast Message: **Success**
-Alert: -> Dialog Title: **Error**
+ - Record: Data Variable **Approval Workflow Trigger1**
+ 
+Change the Toast: -> Toast Message to **Success**
+Change the Alert: -> Dialog Title to **Error**
 
 Go to the **Risk Details** page
 Add a new button at the end called **Add new mitigation**
