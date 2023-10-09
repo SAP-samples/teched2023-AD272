@@ -431,7 +431,8 @@ As a first step we will integrate a data entity from the marketplace, which will
 Select **MARKETPLACE** above the UI components on the left side
 ![Marketplace](10j-marketplace.jpg)
 
-Search for the secret key: NorfIxFhC900beCXAAxClA 
+Search for the secret key: NorfIxFhC900beCXAAxClA
+
 Select the data entity **Approval Workflow Trigger** and press **Install** on the top right side.
 Press EXIT to close the marketplace.
 
