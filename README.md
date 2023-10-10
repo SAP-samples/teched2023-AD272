@@ -4,9 +4,9 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 session called **AD272 - Best of both sides: SAP Cloud Programming Model meets SAP Build**. 
+This repository contains the material for the SAP TechEd 2023 session called **AD272 - Best of both sides: SAP Cloud Programming Model meets SAP Build**.
 
-Risk Management allows to identify enterprise risks and align them with business processes, accessing and tracking risk to organisational earnings and operations. Customizing risk management enables you to carry out the necessary configuration activities. 
+Risk Management allows to identify enterprise risks and align them with business processes, accessing and tracking risk to organisational earnings and operations. Customizing risk management enables you to carry out the necessary configuration activities.
 
 ## Overview
 
@@ -17,12 +17,12 @@ This session introduces attendees how to use CAP services in SAP Build and lever
 In this scenario: <br>
 - Applications are developed to create and mitigate risk using SAP Build Apps.
 - Logic is added to :
-  - update risks and change mitigation 
-  - trigger approval process 
+  - update risks and change mitigation
+  - trigger approval process
 - Process is triggered to review and approve the changes in SAP Build Process Automation
 - Cloud Application Model service is used to update risk details in the SAP HANA data source
 - SAP Build Work Zone site is designed by adapting custom pages and integrating the application with UI integration cards
-- Risk Manager access the business site to add and view risks, approve mitigations and track all the risks. 
+- Risk Manager access the business site to add and view risks, approve mitigations and track all the risks.
 - In addition, whole process can be managed and monitored using out-of-the-box visibility
 
 
@@ -34,24 +34,25 @@ There are no dedicated requirement for this exercise. But in case you want to ga
 
 ## Exercises
 
-- [Exercise 1 - SAP Build Apps](exercises/ex1/)
-    - [Exercise 1.1 - SAP Build Apps consuming SAP CAP](exercises/ex1#exercise-11-consume-a-cap-service-in-sap-build-apps)
-    - [Exercise 1.2 - SAP Build Apps - Trigger Process](exercises/ex1#exercise-12-create-a-process-trigger)
-- [Exercise 2 - SAP Build Process Automation](exercises/ex2/)
-    - [Exercise 2.1 - Create business project and process](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Import SAPUI5](exercises/ex2#exercise-22-sub-exercise-2-description)
-    - [Exercise 2.3 - Add SAPUI5 Form in Process](exercises/ex2#exercise-22-sub-exercise-2-description)
-    - [Exercise 2.4 - Add Action to Update Risk](exercises/ex2#exercise-22-sub-exercise-2-description)
-    - [Exercise 2.5 - Send Email Notification](exercises/ex2#exercise-22-sub-exercise-2-description)
-- [Exercise 3 - Open Risk Management Application and Start Process](exercises/ex3/)
-    - [Exercise 3.1 - Create and Modify Risks](exercises/ex3#exercise-31-sub-exercise-1-description)
-    - [Exercise 3.2 - Monitor Process](exercises/ex3#exercise-32-sub-exercise-2-description)
-    - [Exercise 3.3 - Approve Risks Mitigation from Inbox](exercises/ex3#exercise-33-sub-exercise-3-description)
-- [Exercise 4 - SAP Build Work Zone](exercises/ex4/)
-    - [Exercise 4.1 - Create and design a Site Using SAP Build Work Zone, standard edition](exercises/ex4#exercise-41-sub-exercise-1-description)
-    - [Exercise 4.2 - Experience end to end](exercises/ex4#exercise-42-sub-exercise-2-description)
+- [Exercise 1 - SAP Build Apps](exercises/1_SAPBuildApps/)
+    - [Exercise 1.1 - SAP Build Apps consuming SAP CAP](exercises/1_SAPBuildApps#exercise-11-consume-a-cap-service-in-sap-build-apps)
+    - [Exercise 1.2 - SAP Build Apps - Trigger Process](exercises/1_SAPBuildApps#exercise-12-create-a-process-trigger)
+- [Exercise 2 - SAP Build Process Automation](exercises/2_SAPBuildProcessAutomation/)
+    - [Exercise 2.1 - Create business project and process](exercises/2_SAPBuildProcessAutomation#exercise-21-sub-exercise-1-description)
+    - [Exercise 2.2 - Import SAPUI5](exercises/2_SAPBuildProcessAutomation#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.3 - Add SAPUI5 Form in Process](exercises/2_SAPBuildProcessAutomation#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.4 - Add Action to Update Risk](exercises/2_SAPBuildProcessAutomation#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.5 - Send Email Notification](exercises/2_SAPBuildProcessAutomation#exercise-22-sub-exercise-2-description)
+- [Exercise 3 - SAP Build Work Zone](exercises/3_SAPBuildWorkZone/)
+    - [Exercise 3.1 - Create and design a Site Using SAP Build Work Zone, standard edition](exercises/3_SAPBuildWorkZone#exercise-31-sub-exercise-1-description)
+    - [Exercise 3.2 - Experience end to end](exercises/3_SAPBuildWorkZone#exercise-32-sub-exercise-2-description)
+- [Exercise 4 - Open Risk Management Application and Start Process](exercises/4_OpenAppAndStartProcess/)
+    - [Exercise 3.1 - Create and Modify Risks](exercises/4_OpenAppAndStartProcess#exercise-41-sub-exercise-1-description)
+    - [Exercise 3.2 - Monitor Process](exercises/4_OpenAppAndStartProcess#exercise-42-sub-exercise-2-description)
+    - [Exercise 3.3 - Approve Risks Mitigation from Inbox](exercises/4_OpenAppAndStartProcess#exercise-43-sub-exercise-3-description)
 
-  
+
+
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
 
