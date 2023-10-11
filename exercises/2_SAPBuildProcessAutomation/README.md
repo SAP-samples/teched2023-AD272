@@ -20,4 +20,4 @@ After completing these steps you will have learnt the following.
 
 ## Summary
 
-Now that you have configured and tested the SAP Build Process Automation project, Continue to - [SAP Workzone configuration](../SAPBuildWorkZone/README.md)
+Now that you have configured and tested the SAP Build Process Automation project, Continue to - [SAP Workzone configuration](/exercises/3_SAPBuildWorkZone/README.md)
