@@ -124,4 +124,4 @@ i.	In case of successful deployment, “Risk and Mitigation Approval Process has
 
 ## Summary
 
-Now that you have configured and tested the SAP Build Process Automation project, Continue to - [SAP Workzone configuration](/exercises/3_SAPBuildWorkZone/README.md)
+Now that you have configured , released and deployed the SAP Build Process Automation project, Continue to - [SAP Workzone configuration](/exercises/3_SAPBuildWorkZone/README.md)
