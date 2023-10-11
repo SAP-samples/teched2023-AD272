@@ -56,6 +56,13 @@ h.	You should get a “Imported” message <br>
 
 UI5 Form is imported to process now <br>
 
+## 4) Add UI5 Form to Process 
+
+## 5)	Add Action based on CAP Service
+
+## 6)	Release and Deploy
+
+## 7)	Test Process
 
 ## Summary
 
