@@ -13,8 +13,8 @@ After completing these steps you will have learnt the following.
 5)	Add Action based on CAP Service
 6)	Release and Deploy
 7)	Test Process
-   
-<br>![(/exercises/2_SAPBuildProcessAutomation/images/Locate_Project_1.png)]
+
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Locate_Project_1.png)
 [Create a CAP Service with BAS Productivity Tools](build-apps-cap-service).
 
 
