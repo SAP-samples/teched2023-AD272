@@ -82,6 +82,18 @@ Now the UI5 form is added as the approval form now.
 
 ## 5)	Add Action based on CAP Service
 
+a.	Click on the + next to Approve in the Approval form <br>
+b.	Choose Actions->Browse Library <br>
+c.	Choose “Create a Single Mitigation” from project Risk Management Actions and Add <br>
+d.	In the General tab, fill the destination variable with “CAPService” <br>
+e.	In the Inputs section, <br>
+  i.	Fill the description field with “Mitigation Description” from Process Inputs <br>
+  ii.	Fill the owner field with “Mitigation Owner” from Process Inputs <br>
+  iii.	Fill the timeline field with “Mitigation Timeline” from Process Inputs <br>
+f.	Save it <br>
+
+Now the Action based on CAP Service is added which will post the mitigation to SAP HANA <br>
+
 ## 6)	Release and Deploy
 
 ## 7)	Test Process
