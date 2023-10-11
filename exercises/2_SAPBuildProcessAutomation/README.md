@@ -57,6 +57,28 @@ h.	You should get a “Imported” message <br>
 UI5 Form is imported to process now <br>
 
 ## 4) Add UI5 Form to Process 
+  a.	Click on the existing “Risk and Mitigation Approval Form” <br>
+  b.	Click on the 3 dots and Remove <br>
+  <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Form_removal_9.png)<br>
+  c.	Click on + next to Decisions <br>
+  d.	Choose Approvals - > Risk and Mitigation UI5 Approval Form <br>
+  <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Add_UI5_Form_10.png)<br>
+  e.	Connect the + next to Reject to the Rejection Notification Mail step <br>
+  f.	In the General tab, Subject field needs to be filled up . Add the Subject as “Mitigation approval form for” and choose from the Process Inputs, the “MitigationDescription” field <br>
+  g.	In the General tab, Users field needs to be filled up. Add the User from Determine Approvers->Approver Email field <br>
+  <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Fill_Mandatory_Details_UI5_11.png)<br>
+  h.	In the Inputs field, map the fields in UI form to the Process Inputs for the actual values to be populated in the form <br>
+        i.	Migration Description <br>
+        ii.	Migration Owner <br>
+        iii.Migration Timeline <br>
+        iv.	Risk Criticality <br>
+        v.	Risk Description <br>
+        vi.	Risk Impact <br>
+        vii.	Risk Responsible <br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Mapping_UI_Fields_12.png)<br> 
+i.	  Save the form <br>
+
+Now the UI5 form is added as the approval form now.
 
 ## 5)	Add Action based on CAP Service
 
