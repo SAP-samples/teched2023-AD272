@@ -41,6 +41,21 @@ e.	Save it <br>
 
 Decision is configured to return the approver now <br>
 
+## 3)	Import UI5 Form
+
+a.	Click on Overview section<br>
+b.	Click on Import->Form <br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Import_Form_7.png)<br>
+c.	Enter the Application ID as “customui5.customui5” <br>
+d.	Enter the Application Version as 1.0.2 <br>
+e.	Enter the name as “Risk and Mitigation UI5 Approval Form” <br>
+f.	Enter the description as “A UI5 form for approval of risks and mitigations” <br>
+g.	Click on Import <br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/UI5_Form_8.png)<br>
+h.	You should get a “Imported” message <br>
+
+UI5 Form is imported to process now <br>
+
 
 ## Summary
 
