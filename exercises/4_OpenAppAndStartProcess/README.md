@@ -16,6 +16,7 @@ After completing these steps you will have created the final app which can be ac
 The build may take a a little while(20 minutes or so) so you may want to skip to the next tutorial. If you refresh the page, the status will change from created to queued to finally delivered. 
 As soon as it is delivered click **Deploy MTA**
 <br>![](/exercises/4_OpenAppAndStartProcess/images/11c-deploy-mtar.jpg)
+
 The first you deploy, you will get the following to sign in to Cloud Foundry so you can deploy the app.
 Select endpoint cf-eu10-004 and press **Auhtorize BTP Deployments**
 <br>![](/exercises/4_OpenAppAndStartProcess/images/11d-mta.jpg)
