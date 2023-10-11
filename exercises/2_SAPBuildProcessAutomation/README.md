@@ -6,7 +6,7 @@ In this exercise, you will configure a SAP Build Process Automation project whic
 
 After completing these steps you will have learnt the following.
 
-1)	Save as New Project
+1)	How to do a Save as New Project from an existing project
 2)	Configure the decision with approver
 3)	Import UI5 Form
 4)	Add UI5 Form to Process 
@@ -16,16 +16,6 @@ After completing these steps you will have learnt the following.
    
 <br>![](/exercises/ex0/images/00_00_0010.png)
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
 
 ## Summary
 
