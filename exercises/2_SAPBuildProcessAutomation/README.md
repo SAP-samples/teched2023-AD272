@@ -2,6 +2,11 @@
 
 In this exercise, you will configure a SAP Build Process Automation project which can trigger an approval process for the mitigation proposed for the risk in the Risk Managment Build Apps application.
 
+## Pre-requisite
+1) SAP Build Process Automation project “Risk and Mitigation Approval Process” is given as a template <br>
+2) UI5 Application "customui5.customui5" is already developed, deployed and available to be imported and consumed as an approval form in the process. <br>
+   Deevloper tutorials for developing UI5 applications can be found [here](https://community.sap.com/topics/ui5/developing-sapui5-applications) <br>
+
 ## Steps to configure the SAP Build Process Automation Project
 
 After completing these steps you will have learnt the following.
