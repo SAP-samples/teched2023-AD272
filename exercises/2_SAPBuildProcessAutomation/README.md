@@ -115,7 +115,7 @@ h.	Click on Deploy button <br>
 i.	In case of successful deployment, “Risk and Mitigation Approval Process has been deployed” message will pop up. <br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Deploy_Project_21.png)<br> 
 
-## 7)	Test Process
+
 
 ## Summary
 
