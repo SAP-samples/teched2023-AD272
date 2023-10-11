@@ -47,7 +47,7 @@ There are no dedicated requirement for this exercise. But in case you want to ga
     - [Exercise 3.1 - Create and design a Site Using SAP Build Work Zone, standard edition](exercises/3_SAPBuildWorkZone#exercise-31-sub-exercise-1-description)
     - [Exercise 3.2 - Experience end to end](exercises/3_SAPBuildWorkZone#exercise-32-sub-exercise-2-description)
 - [Exercise 4 - Open Risk Management Application and Start Process](exercises/4_OpenAppAndStartProcess/)
-    - [Exercise 3.1 - Create and Modify Risks](exercises/4_OpenAppAndStartProcess#exercise-41-sub-exercise-1-description)
+    - [Exercise 4.1 - SAP Build Apps Deployment](exercises/4_OpenAppAndStartProcess#exercise-41-sap-build-apps-deployment)
     - [Exercise 3.2 - Monitor Process](exercises/4_OpenAppAndStartProcess#exercise-42-sub-exercise-2-description)
     - [Exercise 3.3 - Approve Risks Mitigation from Inbox](exercises/4_OpenAppAndStartProcess#exercise-43-sub-exercise-3-description)
 
