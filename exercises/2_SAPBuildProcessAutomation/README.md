@@ -100,6 +100,21 @@ Now the Action based on CAP Service is added which will post the mitigation to S
 
 ## 6)	Release and Deploy
 
+a.	In the Overview page of the project, Click on Release button <br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Release_Project_17.png)<br> 
+b.	Give a Version Number , for example, 1.0.1 <br>
+c.	Give a Version Comment, for example, “Initial Draft” <br>
+d.	Click on Release <br>
+e.	In the Overview page of the project, now you can see a Deploy button(if the previous step of Release was successful) <br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Deploy_Project_!8.png)<br> 
+f.	Click on Deploy button , say Next <br>
+g.	Choose the destination as “RiskManagement_OAUTH” and say Next <br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Deploy_Project_!9.png)<br> 
+h.	Click on Deploy button <br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Deploy_Project_20.png)<br> 
+i.	In case of successful deployment, “Risk and Mitigation Approval Process has been deployed” message will pop up. <br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Deploy_Project_21.png)<br> 
+
 ## 7)	Test Process
 
 ## Summary
