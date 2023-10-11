@@ -22,7 +22,9 @@ Select endpoint cf-eu10-004 and press **Auhtorize BTP Deployments**
 
 You will get a dialog for signing in to the deployment environment (Cloud Foundry).
 Enter your custom IDP origin key in the input box **tdct3ched1-platform** and then click Sign in with alternative identity provider.
-Once signed in, select the Cloud Foundry organization to deploy the app to.
+Once signed in, the Cloud Foundry organization to deploy the app to is selected. Now press **deploy MTA to AD272**
+<br>![](/exercises/ex2/images/11e-deploy-to-ad272.jpg)
+
 
 ## Exercise 2.2 Sub Exercise 2 Description
 
