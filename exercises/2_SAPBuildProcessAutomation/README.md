@@ -1,4 +1,4 @@
-# Comfigure the SAP Build Process Automation Project
+# Configure the SAP Build Process Automation Project
 
 In this exercise, you will configure a SAP Build Process Automation project which can trigger an approval process for the mitigation proposed for the risk in the Risk Managment Build Apps application.
 
@@ -20,5 +20,4 @@ After completing these steps you will have learnt the following.
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you have configured and tested the SAP Build Process Automation project, Continue to - [SAP Workzone configuration](../SAPBuildWorkZone/README.md)
