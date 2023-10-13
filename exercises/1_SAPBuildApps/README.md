@@ -44,8 +44,7 @@ The app you will help build has 3 pages:
 
 
 ### Open SAP Build Apps
-Open SAP Build Apps with this link: ["Lobby"](https://ad272-rt8pv9xc.eu10.build.cloud.sap/lobby)
-Link: https://ad272-rt8pv9xc.eu10.build.cloud.sap/lobby 
+Open SAP Build Apps with this link: https://ad272-rt8pv9xc.eu10.build.cloud.sap/lobby 
 
 The SAP Build lobby should open.
 
