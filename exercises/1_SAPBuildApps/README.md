@@ -100,6 +100,7 @@ You can now click **Browse Real Data** to see live data from the CAP service.
 
 ![Browse real data](/exercises/1_SAPBuildApps/images/3-data.jpg)
 
+Press **Save** and go back to the UI Canvas by seecting **UI CANVAS** in the navigation tab at the top.
 In addition, the errors should now be gone. Data variables were already set up on all 3 pages of the app, and now should be functioning properly.
 
 
