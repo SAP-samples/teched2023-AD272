@@ -46,11 +46,11 @@ There are no dedicated requirement for this exercise. But in case you want to ga
 - [Exercise 3 - SAP Build Apps Integration + Deployment](exercises/2_BuildAppsDeploy/)
     - [Exercise 4.1 - SAP Build Apps Deployment](exercises/2_BuildAppsDeploy#exercise-31-sap-build-apps-deployment)
 - [Exercise 4 - SAP Build Work Zone](exercises/3_SAPBuildWorkZone/)
-    - [Exercise 4.1 - Create and design a Site Using SAP Build Work Zone, standard edition](exercises/4_SAPBuildWorkZone#exercise-41-sub-exercise-1-description)
-    - [Exercise 4.2 - Experience end to end](exercises/43_SAPBuildWorkZone#exercise-42-sub-exercise-2-description)
-- [Exercise 5 - Open Risk Management Application and Start Process](exercises/5_OpenAppAndStartProcess/)
-    - [Exercise 5.1 - Monitor Process](exercises/5_OpenAppAndStartProcess#exercise-52-sub-exercise-2-description)
-    - [Exercise 5.2 - Approve Risks Mitigation from Inbox](exercises/5_OpenAppAndStartProcess#exercise-53-sub-exercise-3-description)
+    - [Exercise 4.1 - Create and design a Site Using SAP Build Work Zone, standard edition](exercises/3_SAPBuildWorkZone#exercise-31-sub-exercise-1-description)
+    - [Exercise 4.2 - Experience end to end](exercises/3_SAPBuildWorkZone#exercise-32-sub-exercise-2-description)
+- [Exercise 5 - Open Risk Management Application and Start Process](exercises/4_OpenAppAndStartProcess/)
+    - [Exercise 5.1 - Monitor Process](exercises/4_OpenAppAndStartProcess#exercise-42-sub-exercise-2-description)
+    - [Exercise 5.2 - Approve Risks Mitigation from Inbox](exercises/4_OpenAppAndStartProcess#exercise-43-sub-exercise-3-description)
 
 
 
