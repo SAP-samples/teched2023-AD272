@@ -409,8 +409,6 @@ Afterwards delete the text field and add three input fields.
 
     ![Input Fields](/exercises/1_SAPBuildApps/images/10c-approvalbutton.jpg)
 
-- Import Process Automation from marketplace
-
 - Go to Variables -> Data Variables -> Add a new Data Variable: Approval Workflow Trigger and change the Data Variable type to New data record
 
   ![Data Variable](/exercises/1_SAPBuildApps/images/10d-data-variable.jpg)
