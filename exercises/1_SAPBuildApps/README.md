@@ -53,14 +53,14 @@ The SAP Build lobby should open.
 
 ### Import project
 
->Download the file [Risk Management.zip.gpg](/exercises/1_SAPBuildApps/images/Risk Management.zip.gpg).
+Download the file [Risk Management.zip.gpg](/exercises/1_SAPBuildApps/images/Risk Management.zip.gpg).
 
-> Create a new SAP Build Apps project from the lobby.
-> Select Create -> Build an Application -> Web & Mobile Application. Name it Riskmanagement *Your AD272 user id* like **Risk Management AD272-123**
+Create a new SAP Build Apps project from the lobby.
+Select Create -> Build an Application -> Web & Mobile Application. Name it Riskmanagement *Your AD272 user id* like **Risk Management AD272-123**
 
->From within an open SAP Build Apps project, make sure the project is saved. Then go to the upper-right corner, select the 3 dots and then **Replace** -- this import replaces and deletes the current content of the project.
+From within an open SAP Build Apps project, make sure the project is saved. Then go to the upper-right corner, select the 3 dots and then **Replace** -- this import replaces and deletes the current content of the project.
 
->Select the `jpg` file and click **Replace**.
+Select the `jpg` file and click **Replace**.
 
 
 ### Create data resource for CAP app
