@@ -380,7 +380,6 @@ The other flow functions set the **changingMigration** variable in order to disp
 
   ![Alt text](/exercises/1_SAPBuildApps/images/test-2b-change-mitigation.jpg)
 
-- You can click **Edit** and change some of the fields.
 
 ## Exercise 1.2 Create a process trigger  
 <!-- description --> In this part we will create a form with a submit button that will trigger a process which will be created in the SAP Process Automation part of this exercise.
