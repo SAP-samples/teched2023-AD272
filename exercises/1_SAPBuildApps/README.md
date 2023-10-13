@@ -53,7 +53,7 @@ The SAP Build lobby should open.
 
 ### Import project
 
->Download the file [Risk Management.zip.gpg](exercises/ex1/Risk Management.zip.gpg).
+>Download the file [Risk Management.zip.gpg](exercises/1_SAPBuildApps/Risk Management.zip.gpg).
 
 > Create a new SAP Build Apps project from the lobby.
 > Select Create -> Build an Application -> Web & Mobile Application. Name it Riskmanagement *Your AD272 user id* like "Risk Management AD272-123"
