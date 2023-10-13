@@ -82,8 +82,6 @@ The first thing you need to do is connect the project to your CAP service via ou
 
     >Note that there will be many error messages. This is because we already created data variables as well as bindings with those variables, but we deleted the data resources because we wanted you to do that part.
 
-    >![Error messages](/exercises/1_SAPBuildApps/images/3-data-error.jpg)
-
     >You can ignore these error messages. As soon as you create the data resources, they will go away.
 
 5. Click **BTP Destinations**, and then select the destination called **RiskManagement**.
