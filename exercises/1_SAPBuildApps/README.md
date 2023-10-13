@@ -138,7 +138,7 @@ Now we just want to enable the **Add Risk** button to navigate to the **Manage R
 
   ![Open logic for button](/exercises/1_SAPBuildApps/images/5-open-logic.jpg)
 
-- Add an **Open page** flow function, and connect it to the **Page mount** event.
+- Add an **Open page** flow function, and connect it to the **Component tab** event.
 
   ![Open page](/exercises/1_SAPBuildApps/images/5-add-open-flow.jpg)
 
