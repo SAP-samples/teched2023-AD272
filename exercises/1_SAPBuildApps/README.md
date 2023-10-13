@@ -443,6 +443,8 @@ Afterwards delete the text field and add three input fields.
  - Change the Toast: -> Toast Message to **Success**
  - Change the Alert: -> Dialog Title to **Error**
 
+Save the application.
+
 - Go to the **Risk Details** page
 - Add a new button at the end called **Add new mitigation**
 
