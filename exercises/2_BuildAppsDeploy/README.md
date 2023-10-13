@@ -31,4 +31,5 @@ Once signed in, the Cloud Foundry organization to deploy the app to is selected.
 
 You've now inetgrated your own process into the SAP Build Apps application and deployed it for end user to Cloud Foundry.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - SAP Work Zone ](../3_SAPBuildWorkZone/README.md)
+
