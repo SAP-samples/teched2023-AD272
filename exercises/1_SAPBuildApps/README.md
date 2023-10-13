@@ -142,7 +142,7 @@ Now we just want to enable the **Add Risk** button to navigate to the **Manage R
 
   ![Open page](/exercises/1_SAPBuildApps/images/5-add-open-flow.jpg)
 
-- Set the page to open as **Manage Risks**.
+- Select the **Open Page** component and set the page to open as **Manage Risks**.
 
   ![Set page](/exercises/1_SAPBuildApps/images/5-set-page.jpg)
 
