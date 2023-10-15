@@ -44,7 +44,7 @@ In the side panel, you’ll see four tools. The Site Directory where you’re go
 
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/1_create_new_site.png)
 
-2. Enter JobCore<id> as the site name and click Create. <id> is a unique id you should use to identify your site.
+2. Enter JobCore_id as the site name and click Create. id is a unique id you should use to identify your site.
 
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/2_name_site.png)
 
