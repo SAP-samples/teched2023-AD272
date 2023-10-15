@@ -115,7 +115,7 @@ Later, you’ll assign your app to the Everyone role. This is a default role - c
 
 ## Design your site
 
-### Create a page.
+### Create and design a page.
 
 1. Open the Content Manager.
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/31-open-content-manager.png)
@@ -123,73 +123,87 @@ Later, you’ll assign your app to the Everyone role. This is a default role - c
 2. Click **Create** and from the dropdown list, select **Page**.
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/32-create-page_replace.png)
 
-3. Enter a title for the page: **Overview**.
+3. Enter a title for the page: **Overview_id**, Where id is your unique id, and click on **Add Section** 
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/33-enter-title.png)
 
-### Add cards and your apps to the page
-1. In the **Design** tab, click **Edit**.
-
-![Work Zone](/exercises/3_SAPBuildWorkZone/images/34-click-edit.png)
-
-2. Click **Add Section**.
-![Work Zone](/exercises/3_SAPBuildWorkZone/images/35-add-section.png)
-
-3. Give the section a title **Header** and click Add Widget.
-![Work Zone](/exercises/3_SAPBuildWorkZone/images/36-section-title.png) 
+4. Keep the section a title empty and click Add Widget.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/34-section-title.png) 
 
 5. In the Add Widgets screen, click **Cards**.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/35-select-cards.png) 
 
-6. Select the Title card and click **Add**.
+6. Select the **AD272header** card to add it to this section
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/36-select-card-header.png) 
 
-7. Click **Add Section**.
+7. Click the **+** sign to add another ection
+
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/37-add-section.png) 
 
 8. Give the section a title **Risks** and click **Add Widget**.
 
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/38-added-section.png) 
+
 9. In the Add Widgets screen, click **Tiles**.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/39-select-tiles.png)
 
 10. Select your app tile and click **Add**.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/40-app-add.png)
 
-11. Click **Add Widget**. In the Add Widgets screen, click **Cards**.
 
-12. Select risks card and click **Add**.
+11. Click **Add Widget** in the same section
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/41-widget-add.png)
 
+12. Select **cards**
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/35-select-cards.png) 
+
+13. Select risks card and click **Add**.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/43-risks-add.png)
+
+14. Click **Save**
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/44-risks-add.png)
+
+15. Click the **Content Manager** to navigate back to the Content Manager
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/45-content-manager.png)
 
 ### Create a space.
 1. In the **Content Manager** click Create and then select **Space**.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/46-add-space.png)
 
-2. Enter a title for the space: **Home**.
+2. Enter a title for the space: **Home_id**, where id is your unique id, enable your page in this space, and click **Save**.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/47-save-space.png)
 
-3. In the Pages tab, you’ll see a list of pages and from here you can assign as many pages as you want to the space. We only have 1 page - the Overview page. From the Assignment Status column, click the toggle to assign the **Overview** page to the **Home** space.
-
-4. Click Save.
-
-5. Go back to the Content Manager using the breadcrumbs at the top. You’ll see that the space you created is added to the list of content items.
+3. Go back to the Content Manager using the breadcrumbs at the top. You’ll see that the space you created is added to the list of content items.
 
 ### Assign your app and space to a role
-In this step, you’ll assign the space to a preconfigured role.
+In this step, you’ll assign your space and app to the Everyone role.
 
-Spaces are assigned to a role and users assigned to a specific role are able to access the space and see the relevant pages assigned to it.Content assigned to the Everyone role is visible to all users.
+Spaces and apps are assigned to a role. Users assigned to a specific role are able to access the space and see the relevant pages assigned to it. Content assigned to the Everyone role is visible to all users.
 
-1. From the Content Manager, click the XXX role.
+1. From the Content Manager, click the Everyone role.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/51-everyone-role.png)
 
 2. Click **Edit**.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/51-everyone-role-edit.png)
 
-3. Under the Spaces tab, you’ll see the **Home** space you just created. Click the toggle to assign the **Home** space to the XXX role. Then click Save.
+3. Under the Apps tab, you’ll see the your app that you deployed. Click the toggle to assign the this app to the role. Then click Spaces tab
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/52-select-app.png)
 
-4. Under the Apps tab, you’ll see the **XXX** app you deployed. Click the toggle to assign the this app to the XXX role. Then click Save.
-
-
-## Assign the roles to your site
-1. Navigate to the Channel Manager
-
-2. Click the report to view how many cards and roles were added with this Content Package.
-
-3. Select the Site Editor.
-
-4. Click Edit.
-
-5. Add the XXX and YYY roles to the site.
+4. Under the Spaces tab, you’ll see the **Home_id** space you just created. Click the toggle to assign the **Home** space to the role. Then click **Save**.
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/53-select-space.png)
 
 
+## Assign the cards role to your site
+1. Navigate to the Site Directory
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/60-site-directory.png)
+
+2. Select the cogwheel icon of your site, to view your site settings
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/61-site-settings.png)
+
+3. Click **Edit** to edit your site settings
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/62-site-settings.png)
+   
+4. Add the AD272 Content Package role to the site. This role is needed to allow users access to that were added for you on this environment
+
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/63-package-role.png)
 
 You now completed designing your site. In the next tutorial you will experience the site as end users will experience it.
