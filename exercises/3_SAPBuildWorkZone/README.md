@@ -92,9 +92,9 @@ The HTML5 Apps content provider should now expose any newly deployed app for int
 
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/24-open-content-editor.png)
 
-The Content Manager has two tabs: My Content where you can manually configure content items and view any other available content items, and the Content Explorer where you can explore exposed content from available content providers, select the content, and add it to your own content.
+The Content Manager shows your current Content. Navigate the Content Explorer where you can explore exposed content from available content providers, select the content, and add it to your own content.
 
-2.  Click the Content Explorer tab to explore content from the available content providers.
+2.  Click the Content Explorer to explore content from the available content providers.
 
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/25-content-explorer_replace.png)
 
@@ -106,9 +106,7 @@ The Content Manager has two tabs: My Content where you can manually configure co
 
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/27-add-app-my-content_replace.png)
 
-5.  Click the My Content tab.
 
-![Work Zone](/exercises/3_SAPBuildWorkZone/images/28-click-my-content_replace.png)
 
 
 Note that your app is in the list of content items.
