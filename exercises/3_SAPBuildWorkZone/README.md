@@ -206,4 +206,7 @@ Spaces and apps are assigned to a role. Users assigned to a specific role are ab
 
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/63-package-role.png)
 
+5. Make sure that the AD272 Content Package role is assigned to your site, and Click **Save**
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/63-package-role.png)
+
 You now completed designing your site. In the next tutorial you will experience the site as end users will experience it.
