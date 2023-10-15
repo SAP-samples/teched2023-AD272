@@ -106,10 +106,12 @@ The Content Manager shows your current Content. Navigate the Content Explorer wh
 
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/27-add-app-my-content_replace.png)
 
-
-
+5. Click the Content Manager to navigate back from the Content Explorer
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/28-content_manager.png)
 
 Note that your app is in the list of content items.
+
+Later, you’ll assign your app to the Everyone role. This is a default role - content assigned to the Everyone role is visible to all users.  
 
 ## Design your site
 
