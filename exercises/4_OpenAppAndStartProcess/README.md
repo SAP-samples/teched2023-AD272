@@ -31,15 +31,8 @@ After completing these steps you will have learnt on how you can monitor a runni
 13.	If you have rejected, there is a  mail notification which is triggered to the user who started the process with the comments provided by the approver <br>
 
    
-
-   
-
-
-14.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
-
 ## Summary
 
-You've now ...
+You've now leaent how to open , start and monitor a process with SAP Build Apps, SAP Build Process Automation and SAP Build Workzone.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+
