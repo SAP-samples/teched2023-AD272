@@ -7,23 +7,19 @@ In SAP Build Work Zone site settings, click the arrow icon to navigate to your s
 
 Go-to-site-1.png
 
-## Exercise 2.2 Sub Exercise 2 Description
+## Monitor process in SAP Build Process Automation
 
-After completing these steps you will have...
+After completing these steps you will have learnt on how you can monitor a running process in SAP Build Process Automation
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
+1.	Go to https://ad272-rt8pv9xc.eu10.build.cloud.sap/monitor/dashboard <br>
+2.	Go to Manage->Processes and Workflows <br>
+3.	Search for project "Risk and Mitigation Approval Process" and choose it <br>
+4.	Click on Show Instances <br>
+<br>![](/exercises/ex2/images/02_02_0010.png)
+5.	
 
-```
 
-2.	Click here.
+6.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
