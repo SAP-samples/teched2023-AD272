@@ -15,7 +15,7 @@ After completing these steps you will have learnt on how you can monitor a runni
 2.	Go to Manage->Processes and Workflows <br>
 3.	Search for project "Risk and Mitigation Approval Process" and choose it <br>
 4.	Click on Show Instances <br>
-<br>![](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_1.png)<br>
+<br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_1.png)<br>
 5.	
 
 
