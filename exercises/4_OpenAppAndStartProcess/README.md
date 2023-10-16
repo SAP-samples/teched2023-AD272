@@ -16,10 +16,26 @@ After completing these steps you will have learnt on how you can monitor a runni
 3.	Search for project "Risk and Mitigation Approval Process" and choose it <br>
 4.	Click on Show Instances <br>
 <br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_1.png)<br>
-5.	
+<br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_2.png)<br>
+5.	You can see the running process
+<br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_3.png)<br>
+6.	You can see that there is a task available for approval from the logs of the running process <br>
+7.	Go to My Inbox to approve the task (TBD - To upload an image once Iris configures My Inbox in WZ) <br>
+8.	In the My Inbox application, the approval form can be seen with Risk Information, Mitigation Information and Comments section along with Approve/Reject buttons <br>
+   <br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_4.png)<br>
+   <br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_5.png)<br>
+9.	You can provide a comment and Approve or Reject the Risk and Mitigation request <br>
+10.	If you have approved , there will be a CAP Service call via action which posts the mitigation details to the HANA DB <br>
+11.	This can be verified in the Build Apps application (TBD- Sync with Marc for the image to be uploaded) <br>
+12.	There will be a mail notification which is triggered to the user who started the process with the risk and mitigation description along with the comments <br>
+13.	If you have rejected, there is a  mail notification which is triggered to the user who started the process with the comments provided by the approver <br>
+
+   
+
+   
 
 
-6.	Click here.
+14.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
