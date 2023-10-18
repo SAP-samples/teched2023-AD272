@@ -5,7 +5,9 @@ In this exercise, we will create connect all the SAP Build artificats and run th
 ## Exercise 4.1 Open your site in runtime
 In SAP Build Work Zone site directory, click the arrow icon next to your site to navigate to your site runtime
 
-Go-to-site-1.png
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/Go-to-site-1.png)
+
+
 
 ## Monitor process in SAP Build Process Automation
 
