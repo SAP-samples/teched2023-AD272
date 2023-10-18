@@ -159,10 +159,17 @@ Later, you’ll assign your app to the Everyone role. This is a default role - c
 13. Select risks card and click **Add**.
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/43-risks-add.png)
 
-14. Click **Save**
+14. Hover over the Apps widget and click the + icon to add another app
+
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/Add_My_Inbox_1.png)
+
+15. Selece the MyInbox app 
+![Work Zone](/exercises/3_SAPBuildWorkZone/images/Add_My_Inbox_2.png)
+
+16. Click **Save**
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/44-risks-add.png)
 
-15. Click the **Content Manager** to navigate back to the Content Manager
+17. Click the **Content Manager** to navigate back to the Content Manager
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/45-content-manager.png)
 
 ### Create a space.
