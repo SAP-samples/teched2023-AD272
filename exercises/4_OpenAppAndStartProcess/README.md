@@ -1,13 +1,20 @@
 # Exercise 4 - Open your site runtime, launch the Risk Management Application and Start Process
 
-In this exercise, we will create connect all the SAP Build artificats and run the application.
+In this exercise, we will create connect all the SAP Build artificats and run the application, and experience it from an end user perspective. 
 
 ## Exercise 4.1 Open your site in runtime
-In SAP Build Work Zone site directory, click the arrow icon next to your site to navigate to your site runtime
+
+1. In SAP Build Work Zone site directory, click the arrow icon next to your site to navigate to your site runtime
 
 ![Work Zone](/exercises/4_OpenAppAndStartProcess/Images/Go-to-site-1.png)
+This is the site the end users will access as a central entry point to handle Risks
 
+2. You can now view the site, cards and apps of this site
 
+![Work Zone](/exercises/4_OpenAppAndStartProcess/Images/Go-to-site-1.png)
+3. Launch your app for Risk Management
+
+![Work Zone](/exercises/4_OpenAppAndStartProcess/Images/Go-to-site-1.png)
 
 ## Monitor process in SAP Build Process Automation
 
