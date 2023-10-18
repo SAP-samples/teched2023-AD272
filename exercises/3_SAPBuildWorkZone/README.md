@@ -163,7 +163,8 @@ Later, you’ll assign your app to the Everyone role. This is a default role - c
 
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/Add_My_Inbox_1.png)
 
-15. Selece the MyInbox app 
+15. Select the MyInbox app 
+
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/Add_My_Inbox_2.png)
 
 16. Click **Save**
