@@ -9,12 +9,11 @@ In this exercise, we will create connect all the SAP Build artificats and run th
 ![Work Zone](/exercises/4_OpenAppAndStartProcess/Images/Go-to-site-1.png)
 This is the site the end users will access as a central entry point to handle Risks
 
-2. You can now view the site, cards and apps of this site
+2. You can now view the site, cards and apps of this site. The card below shows you all the risks in a visual way that helps users be aware of the risks in a visual way.
 
-![Work Zone](/exercises/4_OpenAppAndStartProcess/Images/Go-to-site-1.png)
-3. Launch your app for Risk Management
+To handle risks, launch your app for Risk Management and click on your app tile 
+![Work Zone](/exercises/4_OpenAppAndStartProcess/Images/Go-to-site-2.png)
 
-![Work Zone](/exercises/4_OpenAppAndStartProcess/Images/Go-to-site-1.png)
 
 ## Exercise 4.2 Open your app and add a new mitigation
 1. Select the risk that you have created.
