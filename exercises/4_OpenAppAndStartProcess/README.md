@@ -42,7 +42,8 @@ After completing these steps you will have learnt on how you can monitor a runni
 5.	You can see the running process
 <br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_3.png)<br>
 6.	You can see that there is a task available for approval from the logs of the running process <br>
-7.	Go to My Inbox to approve the task (TBD - To upload an image once Iris configures My Inbox in WZ) <br>
+7.	Go to My Inbox to approve the task  <br>
+<br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/MyInbox_WZ.png)<br>
 8.	In the My Inbox application, the approval form can be seen with Risk Information, Mitigation Information and Comments section along with Approve/Reject buttons <br>
    <br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_4.png)<br>
    <br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Monitor_process_5.png)<br>
