@@ -28,6 +28,8 @@ This is the site the end users will access as a central entry point to handle Ri
 
 ![Open Risk](/exercises/4_OpenAppAndStartProcess/Images/sba-run3.jpg)
 
+After the approval you can come back to the app and you should see your new mitigation and assign it to the risk.
+
 ## Monitor process in SAP Build Process Automation
 
 After completing these steps you will have learnt on how you can monitor a running process in SAP Build Process Automation
