@@ -16,6 +16,18 @@ This is the site the end users will access as a central entry point to handle Ri
 
 ![Work Zone](/exercises/4_OpenAppAndStartProcess/Images/Go-to-site-1.png)
 
+## Exercise 4.2 Open your app and add a new mitigation
+1. Select the risk that you have created.
+
+![Open Risk](/exercises/4_OpenAppAndStartProcess/Images/sba-run1.jpg)
+
+2. Scroll down to the button of the mitigations and press the button **Add new mitigation**
+
+![Add new mitigation](/exercises/4_OpenAppAndStartProcess/Images/sba-run2.jpg)
+3. Enter some data that you can identify easily and press the **Trigger Approval** button. Now your own approval workflow is started.
+
+![Open Risk](/exercises/4_OpenAppAndStartProcess/Images/sba-run3.jpg)
+
 ## Monitor process in SAP Build Process Automation
 
 After completing these steps you will have learnt on how you can monitor a running process in SAP Build Process Automation
