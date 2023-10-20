@@ -52,6 +52,7 @@ After completing these steps you will have learnt on how you can monitor a runni
 11. You should be able to see it in the Monitor process that the creation of single mitigation is successful <br>
 <br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Mitigation_Creation_Success.png)<br>
 12.	This can be verified in the Build Apps application.You should be able to see this new mitigation which you can assign to the risk <br>
+<br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Mitigation_Creation_Success_BA.png)<br>
 13.	There will be a mail notification which is triggered to the user who started the process with the risk and mitigation description along with the comments <br>
  <br>![Process design](/exercises/4_OpenAppAndStartProcess/Images/Mail.png)<br>
 14.	If you have rejected, there is a  mail notification which is triggered to the user who started the process with the comments provided by the approver <br>
