@@ -90,8 +90,8 @@ An Action project based on CAP Service which helps to create a single mitigation
 This action can be consumed in the process now. Please refer to the following links for know hows on CAP Service creation and consumption. <br>
 
 1.[Create a CAP Service with BAS Productivity Tools](https://developers.sap.com/tutorials/build-apps-cap-service.html) <br>
-2.[Create a destination to your CAP service] (https://developers.sap.com/tutorials/build-apps-cap-expose.html)<br>
-3.[Create Action Project for CAP Service] (https://developers.sap.com/tutorials/spa-consume-actions-cap-action-create.html)<br>
+2.[Create a destination to your CAP service](https://developers.sap.com/tutorials/build-apps-cap-expose.html) <br>
+3.[Create Action Project for CAP Service](https://developers.sap.com/tutorials/spa-consume-actions-cap-action-create.html) <br>
 
 a.	Click on the + next to Approve in the Approval form <br>
 b.	Choose Actions->Browse Library <br>
