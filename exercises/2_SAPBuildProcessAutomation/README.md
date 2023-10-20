@@ -21,9 +21,10 @@ After completing these steps you will have learnt the following.
 
 ## 1)	How to do a Save as New Project from an existing project
 a.	Go to Lobby link https://ad272-rt8pv9xc.eu10.build.cloud.sap/lobby<br>
-b.	Locate the Process Automation type of application with name “Risk and Mitigation Approval Process”<br>
+b. Login with your user id ad272-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on and password will be Acce$$teched23 <br>
+c.	Locate the Process Automation type of application with name “Risk and Mitigation Approval Process”<br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Locate_Project_1.png)<br>
-c.	Click on More options and Choose “Save As New Project”<br>
+d.	Click on More options and Choose “Save As New Project”<br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Save_New_Project_2.png)<br>
 
   i.	Choose the option for Select Version as “Editable Version”<br>
