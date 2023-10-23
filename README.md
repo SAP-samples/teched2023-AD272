@@ -14,7 +14,6 @@ This session introduces attendees how to use CAP services in SAP Build and lever
 
 
 ![SAP Build](/SAPBuild.jpeg)
-![Overview](/ad272overview.png)
 
 
 In this scenario: <br>
@@ -28,6 +27,7 @@ In this scenario: <br>
 - Risk Manager access the business site to add and view risks, approve mitigations and track all the risks.
 - In addition, whole process can be managed and monitored using out-of-the-box visibility
 
+![Overview](/ad272overview.png)
 
 ## Requirements
 
