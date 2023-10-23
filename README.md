@@ -12,7 +12,8 @@ Risk Management allows to identify enterprise risks and align them with business
 
 This session introduces attendees how to use CAP services in SAP Build and leveraging SAP Build Apps, SAP Build Process Automation and SAP build Work Zone services of SAP Build portfolio to enhance the experience of managing and mitigating risks.
 
-<img width="1690" alt="image" src="https://github.com/SAP-samples/teched2023-AD272/assets/34297037/236409b5-5b19-4864-be86-94eff978f951">
+![Overview](/ad272overview.png)
+
 
 In this scenario: <br>
 - Applications are developed to create and mitigate risk using SAP Build Apps.
