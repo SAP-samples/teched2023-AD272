@@ -45,6 +45,7 @@ The app you will help build has 3 pages:
 
 ### Open SAP Build Apps
 Open SAP Build Apps with this link: https://ad272-rt8pv9xc.eu10.build.cloud.sap/lobby 
+Your user should be like AD272-XXX@education.cloud.sap
 
 The SAP Build lobby should open.
 
@@ -454,4 +455,4 @@ Save the application.
 ###### That was it in the SAP Build Apps part.
 
 Now we move over to SAP Build Process Automation:
-[Exercise 2 - SAP Build Process Automation](exercises/2_SAPBuildProcessAutomation/)
+[Exercise 2 - SAP Build Process Automation](/exercises/2_SAPBuildProcessAutomation/)
