@@ -45,6 +45,7 @@ The app you will help build has 3 pages:
 
 ### Open SAP Build Apps
 Open SAP Build Apps with this link: https://ad272-rt8pv9xc.eu10.build.cloud.sap/lobby 
+
 Login with your user id ad272-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on and password will be Acce$$teched23
 
 The SAP Build lobby should open.
