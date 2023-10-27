@@ -231,9 +231,16 @@ The page has a page parameter. If sent, the page is for updating; if it's null, 
 
     - **IF condition (first):** Set the condition to the following formula (validates the `prio` field):
 
+        Select the first if condition and press the small icon in the INPUTS on the right
+      ![Logic](/exercises/1_SAPBuildApps/images/8-formula.jpg)
+
+        Afterwards select **Formula**  and replace the *false* with this formula:
+
         ```JavaScript
         NOT(LENGTH(data.Risks1.prio)>5)
         ```
+
+        Do they same with the next values.
 
     - **IF condition (second):** Set the condition to the following formula (checks if we are updating a risk or creating a new one):
 
@@ -266,7 +273,7 @@ The page has a page parameter. If sent, the page is for updating; if it's null, 
             >This formula will show as read because we are not supplying an **ID** value. But the CAP service will assign an ID automatically when it is created. You can still save the formula.
 
 
-4. Add **Alert** flow functions as follows:``
+5. Add **Alert** flow functions as follows:``
 
     ![Alerts](/exercises/1_SAPBuildApps/images/8-alerts.jpg)
 
@@ -292,7 +299,7 @@ The page has a page parameter. If sent, the page is for updating; if it's null, 
 
         Set to **Output value of another node > Create record > Error > Message**.
 
-5. Click **Save** (upper right).
+6. Click **Save** (upper right).
 
 
 
