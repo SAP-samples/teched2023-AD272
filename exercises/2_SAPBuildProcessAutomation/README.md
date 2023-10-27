@@ -103,12 +103,14 @@ c.	Choose “Create a Single Mitigation” from project Risk Management Actions 
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Action_Choose_Library_14.png)<br> 
 d.	In the General tab, fill the destination variable with “CAPService” <br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Actions_Inputs_Fill_15.png)<br> 
-e.	In the Inputs section, <br>
+e. In the General tab, fill the "Run step on behalf of" with the Process Started By attribute from Process Metadata . This is needed to do principal propogation during the call to Action based on CAP Service<br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Run_Onbehalf.jpg)<br> 
+f.	In the Inputs section, <br>
   i.	Fill the description field with “Mitigation Description” from Process Inputs <br>
   ii.	Fill the owner field with “Mitigation Owner” from Process Inputs <br>
   iii.	Fill the timeline field with “Mitigation Timeline” from Process Inputs <br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Action_Input_Fill_16.png)<br> 
-f.	Save it <br>
+g.	Save it <br>
 
 Now the Action based on CAP Service is added which will post the mitigation to SAP HANA <br>
 
