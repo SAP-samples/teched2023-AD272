@@ -54,7 +54,7 @@ b.	Click on Import->Form <br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Import_Form_7.png)<br>
 c.	Enter the Application ID as “customui5.customui5” <br>
 d.	Enter the Application Version as 1.0.2 <br>
-e.	Enter the name as “Risk and Mitigation UI5 Approval Form” <br>
+e.	Enter the name as “Risk and Mitigation UI5 Approval Form XXX”  replace XXX with your ID<br>
 f.	Enter the description as “A UI5 form for approval of risks and mitigations” <br>
 g.	Click on Import <br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/UI5_Form_8.png)<br>
