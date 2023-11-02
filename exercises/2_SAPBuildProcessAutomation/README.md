@@ -21,10 +21,11 @@ After completing these steps you will have learnt the following.
 
 ## 1)	How to do a Save as New Project from an existing project
 a.	Go to Lobby link https://ad272-rt8pv9xc.eu10.build.cloud.sap/lobby<br>
-b. Login with your user id ad272-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on and password will be Acce$$teched23 <br>
-c.	Locate the Process Automation type of application with name “Risk and Mitigation Approval Process”<br>
+b. Click on <b>tdct3ched1.accounts.ondemand.com</b><br>
+c. Login with your user id ad272-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on and password will be Acce$$teched23 <br>
+d.	Locate the Process Automation type of application with name “Risk and Mitigation Approval Process”<br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Locate_Project_1.png)<br>
-d.	Click on More options and Choose “Save As New Project”<br>
+e.	Click on More options and Choose “Save As New Project”<br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Save_New_Project_2.png)<br>
 
   i.	Choose the option for Select Version as “Editable Version”<br>
@@ -63,17 +64,19 @@ h.	You should get a “Imported” message <br>
 UI5 Form is imported to process now <br>
 
 ## 4) Add UI5 Form to Process 
-  a.	Click on the existing “Risk and Mitigation Approval Form” <br>
-  b.	Click on the 3 dots and Remove <br>
+  a.Click on the process Risk and Mitigation Approval Process under Artifacts in the Overview 	
+   <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Process.jpg)<br>
+  b.Click on the existing “Risk and Mitigation Approval Form” <br>
+  c.	Click on the 3 dots and Remove <br>
   <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Form_removal_9.png)<br>
-  c.	Click on + next to Decisions <br>
-  d.	Choose Approvals - > Risk and Mitigation UI5 Approval Form <br>
+  d.	Click on + next to Decisions <br>
+  e.	Choose Approvals - > Risk and Mitigation UI5 Approval Form <br>
   <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Add_UI5_Form_10.png)<br>
-  e.	Connect the + next to Reject to the Rejection Notification Mail step <br>
-  f.	In the General tab, Subject field needs to be filled up . Add the Subject as “Mitigation approval form for” and choose from the Process Inputs, the “MitigationDescription” field <br>
-  g.	In the General tab, Users field needs to be filled up. Add the User from Determine Approvers->Approver Email field <br>
+  f.	Connect the + next to Reject to the Rejection Notification Mail step <br>
+  g.	In the General tab, Subject field needs to be filled up . Add the Subject as “Mitigation approval form for” and choose from the Process Inputs, the “MitigationDescription” field <br>
+  h.	In the General tab, Users field needs to be filled up. Add the User from Determine Approvers->Approver Email field <br>
   <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Fill_Mandatory_Details_UI5_11.png)<br>
-  h.	In the Inputs field, map the fields in UI form to the Process Inputs for the actual values to be populated in the form <br>
+  i.	In the Inputs field, map the fields in UI form to the Process Inputs for the actual values to be populated in the form <br>
         i.	Migration Description <br>
         ii.	Migration Owner <br>
         iii.Migration Timeline <br>
