@@ -102,7 +102,7 @@ The first thing you need to do is connect the project to your CAP service via ou
 
     ![Entities added](/exercises/1_SAPBuildApps/images/3-data-add-entities2.jpg)
 
-You can now click **Browse Real Data** to see live data from the CAP service.
+You can now click **Browse Real Data** to see live data from the CAP service. After viewing the data, you can close it (X).
 
 ![Browse real data](/exercises/1_SAPBuildApps/images/3-data.jpg)
 
