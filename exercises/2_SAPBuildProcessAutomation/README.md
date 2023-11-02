@@ -138,6 +138,12 @@ h.	Click on Deploy button <br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Deploy_Project_20.png)<br> 
 i.	In case of successful deployment, “Risk and Mitigation Approval Process has been deployed” message will pop up. <br>
 <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Deploy_Project_21.png)<br> 
+j. Go to Monitoring - > Process and Workflow Defintions and search for your project <br>
+k. Check mark your project and select it .<br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Search_project.jpg)<br> 
+j. You can find the ID which is the definition id of the process, note it and keep it ready for the next exercise.<br>
+<br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Def_Id.jpg)<br> 
+
 
 
 
