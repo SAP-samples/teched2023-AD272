@@ -49,7 +49,9 @@ Open SAP Build Apps with this link: https://ad272-rt8pv9xc.eu10.build.cloud.sap/
 Sign in with tdct3ched1.accounts.ondemand.com.
 
 Login with your user id ad272-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on and password will be Acce$$teched23
+
 Please use the assigned user of Session B and add 10 to it. Example: Your Session B number on the table is 042 add 10. Your user ID is 052.
+
 The SAP Build lobby should open.
 
 ![Lobby](/exercises/1_SAPBuildApps/images/1-lobby.png)
