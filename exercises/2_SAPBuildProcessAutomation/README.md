@@ -70,7 +70,7 @@ UI5 Form is imported to process now <br>
   c.	Click on the 3 dots and Remove <br>
   <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Form_removal_9.png)<br>
   d.	Click on + next to Decisions <br>
-  e.	Choose Approvals - > Risk and Mitigation UI5 Approval Form <br>
+  e.	Choose Approvals - > Risk and Mitigation UI5 Approval Form XXX<br>
   <br>![Process design](/exercises/2_SAPBuildProcessAutomation/images/Add_UI5_Form_10.png)<br>
   f.	Connect the + next to Reject to the Rejection Notification Mail step <br>
   g.	In the General tab, Subject field needs to be filled up . Add the Subject as “Mitigation approval form for” and choose from the Process Inputs, the “MitigationDescription” field <br>
