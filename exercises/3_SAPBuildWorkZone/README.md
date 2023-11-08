@@ -218,3 +218,4 @@ Spaces and apps are assigned to a role. Users assigned to a specific role are ab
 ![Work Zone](/exercises/3_SAPBuildWorkZone/images/63-package-role.png)
 
 You now completed designing your site. In the next tutorial you will experience the site as end users will experience it.
+[Open App and start your process](/exercises/4_OpenAppAndStartProcess/)
