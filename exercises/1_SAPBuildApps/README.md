@@ -50,7 +50,7 @@ Sign in with tdct3ched1.accounts.ondemand.com.
 
 Login with your user id ad272-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on and password will be Acce$$teched23
 
-Please use the assigned user of Session B and add 10 to it. Example: Your Session B number on the table is 042 add 10. Your user ID is 052.
+Please use the assigned user and add 100 to it. Example: Your ID is 042 add 100. Your user ID is 142.
 
 The SAP Build lobby should open.
 
