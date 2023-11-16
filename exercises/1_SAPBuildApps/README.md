@@ -48,7 +48,7 @@ Open SAP Build Apps with this link: https://ad272-rt8pv9xc.eu10.build.cloud.sap/
 
 Sign in with tdct3ched1.accounts.ondemand.com.
 
-Login with your user id ad272-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on and password will be Acce$$teched23
+Login with your user id ad272-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on.
 
 Please use the assigned user and add 100 to it. Example: Your ID is 042 add 100. Your user ID is 142.
 
